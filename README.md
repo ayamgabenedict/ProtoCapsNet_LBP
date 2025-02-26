@@ -1,4 +1,4 @@
-# **ProtoCapsNet: Enhancing Capsule Networks with LBP, Sigmoid Routing, and K-Means Routing**
+# **ProtoCapsNet: Enhancing Capsule Networks with LBP, Sigmoid Routing, and K-Means Clustering**
 
 This project integrates **Prototype Learning** into **Capsule Networks**, enhancing **interpretability and efficiency** for **image recognition**. Instead of **CNN, SoftMax, and Dynamic Routing**, this model uses:
 
