@@ -203,5 +203,5 @@ python test_pipeline.py
 
 ### 📌 9️⃣ Contributing
 
-👨‍💻 Feel free to submit PRs to the [project repo](https://github.com/ayamgabenedict/ProtoCapsNet.git) or report issues!<br>
+👨‍💻 Feel free to submit PRs to the [project repo](https://github.com/ayamgabenedict/ProtoCapsNet_LBP.git) or report issues!<br>
 💬 Contact me if you have any questions.
